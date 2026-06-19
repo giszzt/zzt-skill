@@ -8,7 +8,7 @@
 
 | Skill | 说明 |
 | --- | --- |
-| [ZZT-WritingStyle](./ZZT-WritingStyle/) | 个人写作风格库，用于按既有写作风格生成、润色、迁移和更新风格档案。 |
+| [writing-style](./writing-style/) | Waka 的个人写作风格库，用于代写、润色、文体迁移、反馈学习和持续更新风格档案。 |
 | [ppt-notes-writer](./ppt-notes-writer/) | PPT 演讲者备注生成工具，用于根据幻灯片内容生成适合现场讲述的 speaker notes。 |
 | [FigEdit · 图易编](./figedit/) | 把截图、论文配图和流程图重建为可编辑 SVG 与原生 PowerPoint，保留文字、形状、公式和必要的图片资产。 |
 

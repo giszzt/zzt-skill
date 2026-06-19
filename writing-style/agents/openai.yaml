@@ -1,0 +1,7 @@
+interface:
+  display_name: "Writing Style"
+  short_description: "按 Waka 的个人风格代写、润色、迁移并持续学习"
+  default_prompt: "Use $writing-style to draft or revise this text in Waka's personal writing style."
+
+policy:
+  allow_implicit_invocation: true
