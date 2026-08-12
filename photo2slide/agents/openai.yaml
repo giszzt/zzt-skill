@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo to Slide"
+  short_description: "将现场拍摄的 PPT 照片还原为干净高清的标准幻灯片图片"
+  default_prompt: "Use $photo2slide to restore my photographed PPT slide as a clean, front-facing PNG."

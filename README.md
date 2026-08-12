@@ -10,6 +10,7 @@
 | --- | --- |
 | [writing-style](./writing-style/) | Waka 的个人写作风格库，用于代写、润色、文体迁移、反馈学习和持续更新风格档案。 |
 | [ppt-notes-writer](./ppt-notes-writer/) | PPT 演讲者备注生成工具，用于根据幻灯片内容生成适合现场讲述的 speaker notes。 |
+| [photo2slide](./photo2slide/) | 将现场拍摄、侧拍或受遮挡的 PPT 照片重建为正面、完整、清晰的标准幻灯片 PNG。 |
 | [FigEdit · 图易编](https://github.com/giszzt/figedit) | 把截图、论文配图和流程图重建为可编辑 SVG 与原生 PowerPoint，保留文字、形状、公式和必要的图片资产。已迁移至独立仓库。 |
 
 按需取用。仍在本仓库维护的 skill 以 `SKILL.md` 作为 Agent 工作说明，已独立维护的项目从上表进入对应仓库。
